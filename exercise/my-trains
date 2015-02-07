@@ -1,0 +1,24 @@
+<!DOCTYPE Html> 
+
+<html>
+<head>
+<title>PRoduct School</title>
+</head>
+<nav>
+    <a href="http://www.productschool.com/" target="_blank">Product School</a>
+</nav>
+<body>
+<hr>
+<form>
+<div>
+<label></label>
+</div>
+</form>
+<img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDm-XK9FcVPwl_k271jH6H9RgwUG8rTAoy9kL3-gS5IWU4GrK_Kw"> 
+<a href="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDm-XK9FcVPwl_k271jH6H9RgwUG8rTAoy9kL3-gS5IWU4GrK_Kw">link</a>
+<div></div>
+<p style="height 100px; color: red; line-height: 30px; text-align: center">anything you want</p>
+	<br> 
+
+
+</body>

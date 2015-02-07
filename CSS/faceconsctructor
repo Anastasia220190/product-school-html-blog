@@ -1,0 +1,64 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <style>
+#face{
+height: 600px;
+margin: 50px auto;
+border: 2px solid brown;
+width: 400px;
+border-radius: 40%
+}
+#eye-selection{
+	margin: 70px auto 20px auto
+	width: 240px;
+}
+.eyes{
+	height: 120px
+	width: 70px;
+	border: 2px solid brown;
+	display: inline-block;
+	margin: 20px
+	border-radius: 38%;
+}
+.eyeballs{
+	border-radius: 50%;
+	background-color: black;
+	height: 10px
+	width: 10px;
+	display: block;
+	margin: 80px 0px 20px 0px;
+}
+#nose{
+	width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 100px 100px 100px;
+    border-color: transparent transparent #ff0000 transparent;
+    margin: 0px auto;
+}
+#mouth{
+	border: 3px solid brown;
+	height: 40px
+	width: 60px;
+	margin: 30px auto;
+}
+    </style>
+  </head>
+  <body>
+		<div id="face">
+			<div id="eye-selection">
+				<div class="eyes">
+					<div class="eyeballs">
+					</div>
+				</div>
+				<div class="eyes">
+					<div class="eyeballs">
+					</div>
+				</div>
+			</div>
+			<div id="nose"></div>
+			<div id="mouth"></div>
+		</div>
+	</body>
+</html>
